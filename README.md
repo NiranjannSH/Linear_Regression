@@ -22,7 +22,7 @@ The equation for simple linear regression is often expressed as:
 - **m**: The slope of the line, which represents the change in y for a unit change in x.
 - **c**: The y-intercept, which is the value of y when x is 0.
 
-![Linear Regression Line](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Linear_regression.svg/438px-Linear_regression.svg.png)
+![Linear Regression Line](https://i.imgur.com/mTSSXfS.png)
 
 In simple terms, linear regression fits a straight line to the data points, minimizing the sum of squared differences (residuals) between the observed data points and the values predicted by the line. The slope (m) and y-intercept (c) of this line are determined during the training process.
 
