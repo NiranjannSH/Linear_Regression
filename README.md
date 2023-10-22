@@ -1,6 +1,10 @@
 # Linear_Regression
 Simple linear regression
 
+Run using
+
+python linear.py
+
 # Linear Regression
 
 ![Linear Regression Animation](https://upload.wikimedia.org/wikipedia/commons/e/ed/Residuals_for_Linear_Regression_Fit.png)
